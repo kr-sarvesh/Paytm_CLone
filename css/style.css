@@ -1243,6 +1243,10 @@ video {
     margin-bottom: 2rem;
   }
 
+  .md\:ml-12 {
+    margin-left: 3rem;
+  }
+
   .md\:block {
     display: block;
   }
