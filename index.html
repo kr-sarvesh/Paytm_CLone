@@ -5,9 +5,53 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/style.css" />
-    <title>Simple Tailwind Starter</title>
+    <title>Paytm_Clone</title>
   </head>
   <body>
-    <h1 class="text-3xl">Simple-Tailwind</h1>
+    <div class="container mx-auto bg-blue-100">
+      <!-- Navigation starts from here -->
+      <header class="bg-white">
+        <div
+          class="container mx-auto flex p-4 justify-between flex-row md:flex-row items-center"
+        >
+          <div class="md:hidden block"><i class="fa-solid fa-bars"></i></div>
+          <a
+            href="#"
+            class="title-font font-medium items-center text-gray-900 md:ml-[-2rem] md:mb-4"
+          >
+            <img
+              class="w-44"
+              src="/images/paytm_logo.png"
+              alt="no-paytm-logo"
+            />
+          </a>
+          <nav
+            class="md:ml-auto md:mr-auto items-center font-semibold text-xl justify-center md:block"
+          >
+            <a href="#" class="mr-1 p-2 rounded hover:bg-slate-100"
+              >Paytm for Consumer</a
+            >
+            <a href="#" class="mr-1 p-2 rounded hover:bg-slate-100"
+              >Paytm For Business</a
+            >
+            <a href="#" class="mr-1 p-2 rounded hover:bg-slate-100">Company</a>
+            <a href="#" class="mr-1 p-2 rounded hover:bg-slate-100"
+              >Investor Relations</a
+            >
+            <a href="#" class="mr-1 p-2 rounded hover:bg-slate-100">Career</a>
+          </nav>
+          <button
+            class="inline-flex items-center bg-[#00baf2] border-0 py-1 pl-3 focus:outline-none hover:bg-[#0f4a8a] rounded-full text-white font-bold md:mt-0"
+          >
+            Log In
+            <img
+              class="ml-2 pr-1 w-8"
+              src="/images/svg/efb01c36.svg"
+              alt="user icon"
+            />
+          </button>
+        </div>
+      </header>
+    </div>
   </body>
 </html>
