@@ -1,17 +1,15 @@
 # Project Paytm clone
-# Dance-Home-Landing-Page
-
 
 # HTML & CSS Full Stack Javascript Web Development Course
 
 ![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)
 ![image](https://img.shields.io/badge/Hitesh%20Choudhary-LOC-brightgreen)
 ![image](https://img.shields.io/badge/HTML-CSS-orange)
-![image](https://img.shields.io/badge/Project-Paytm Clone-blue)
+![image](https://img.shields.io/badge/Project-PaytmClone-blue)
 
 ![image](https://img.shields.io/badge/KUMAR-SARVESH-orange)
 
-[<img src= "https://img.shields.io/badge/PROJECT LINK-20b?style=for-the-badge&logo=&logoColor=white" /> ](https://paytm-clone-learn.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJECT LINK-20b?style=for-the-badge&logo=&logoColor=white" />](https://paytm-clone-learn.netlify.app/)
 
 ## About
 
